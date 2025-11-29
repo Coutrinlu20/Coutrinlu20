@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luara Coutrin
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Front-end`**
 
 Me chamo Luara Amaral Coutrin, tenho 26 anos e sou do  Espírito Santo. Concluí o ensino médio na escola E.E.E.F.M. Laranjeiras. Atualmente, estou cursando Sistemas de Informação, - Bacharelado - FAESA. Sou apaixonada por tecnologia.
 
