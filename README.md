@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front End`**
 
-Me chamo **Luara Amaral Coutrin**, tenho 26 anos e sou do Espírito Santo. Atualmente estou cursando **Sistemas de Informação (FAESA)**. Possuo experiência prática em **desenvolvimento web**, com foco em **PHP (Laravel)**, **Bootstrap**, **MySQL**, além de manutenção de sistemas legados e troubleshooting técnico.
+Me chamo **Luara Amaral Coutrin**, tenho 26 anos e sou do Espírito Santo. Atualmente estou cursando **Sistemas de Informação (FAESA)**. Possuo experiência prática em **desenvolvimento web**, com foco em **PHP (Laravel)**, **Python (Django)**, **Javascript (React)**, **Bootstrap**, **MySQL**, além de manutenção de sistemas legados e troubleshooting técnico.
 
 Tenho paixão por tecnologia, aprendizado contínuo e por entregar soluções eficientes que facilitam o dia a dia de usuários e equipes.
 
