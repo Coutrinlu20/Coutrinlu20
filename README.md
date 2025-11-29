@@ -5,7 +5,7 @@
 Me chamo Luara Amaral Coutrin, tenho 26 anos e sou do  Espírito Santo. Concluí o ensino médio na escola E.E.E.F.M. Laranjeiras. Atualmente, estou cursando Sistemas de Informação, - Bacharelado - FAESA. Sou apaixonada por tecnologia.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Coutrinlu20">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
