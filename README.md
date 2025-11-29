@@ -77,8 +77,6 @@ Me chamo Luara Amaral Coutrin, tenho 26 anos e sou do  Espírito Santo. Concluí
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-
-/>
 <img 
     align="left" 
     alt="Git" 
@@ -94,7 +92,6 @@ Me chamo Luara Amaral Coutrin, tenho 26 anos e sou do  Espírito Santo. Concluí
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 <br/>
 <br/>
